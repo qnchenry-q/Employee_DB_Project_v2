@@ -1,0 +1,54 @@
+'1': !!python/object/apply:collections.OrderedDict
+- - - department_id
+    - '1'
+  - - department_name
+    - Sales
+  - - manager_id
+    - '1'
+  - - address_id
+    - '16'
+'2': !!python/object/apply:collections.OrderedDict
+- - - department_id
+    - '2'
+  - - department_name
+    - Development
+  - - manager_id
+    - '6'
+  - - address_id
+    - '17'
+'3': !!python/object/apply:collections.OrderedDict
+- - - department_id
+    - '3'
+  - - department_name
+    - Accounting
+  - - manager_id
+    - '7'
+  - - address_id
+    - '18'
+'4': !!python/object/apply:collections.OrderedDict
+- - - department_id
+    - '4'
+  - - department_name
+    - Human Resources
+  - - manager_id
+    - '10'
+  - - address_id
+    - '19'
+'5': !!python/object/apply:collections.OrderedDict
+- - - department_id
+    - '5'
+  - - department_name
+    - Research
+  - - manager_id
+    - '13'
+  - - address_id
+    - '20'
+'6': !!python/object/apply:collections.OrderedDict
+- - - department_id
+    - '6'
+  - - department_name
+    - CEO
+  - - manager_id
+    - '16'
+  - - address_id
+    - '21'
