@@ -29,7 +29,7 @@ for i in range(num_employees):
   current.append(input("What is this employee's name? : "))
   current.append(input("What is this employee's age?: "))
   current.append(input("What is this employee's salary?: "))
-  employee_ids[current[-3]] == current[0]
+  employee_ids[current[-3]] = current[0]
 
 with open('employees_v2.csv', 'w') as csvfile:
     # creating a csv writer object

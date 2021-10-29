@@ -1,0 +1,7 @@
+department_id,department_name,manager_id,address_id
+1,Sales,1,16
+2,Development,6,17
+3,Accounting,7,18
+4,Human Resources,10,19
+5,Research,13,20
+6,CEO,16,21
