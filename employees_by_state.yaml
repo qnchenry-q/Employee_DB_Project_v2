@@ -1,0 +1,336 @@
+'0': !!python/object/apply:collections.OrderedDict
+- - - ''
+    - '0'
+  - - employee_id
+    - '1'
+  - - name
+    - Tom
+  - - salary
+    - '88000'
+  - - department_id
+    - '1'
+  - - department_name
+    - Sales
+  - - address_id
+    - '1'
+  - - address
+    - 141 N. San Pablo St La Porte TX
+  - - manager_id
+    - '1'
+  - - manager_name
+    - Tom
+'1': !!python/object/apply:collections.OrderedDict
+- - - ''
+    - '1'
+  - - employee_id
+    - '2'
+  - - name
+    - Becky
+  - - salary
+    - '78000'
+  - - department_id
+    - '1'
+  - - department_name
+    - Sales
+  - - address_id
+    - '2'
+  - - address
+    - 988 E. Courtland St Coppell TX
+  - - manager_id
+    - '1'
+  - - manager_name
+    - Tom
+'10': !!python/object/apply:collections.OrderedDict
+- - - ''
+    - '10'
+  - - employee_id
+    - '11'
+  - - name
+    - Mickey
+  - - salary
+    - '84000'
+  - - department_id
+    - '4'
+  - - department_name
+    - Human Resources
+  - - address_id
+    - '11'
+  - - address
+    - 3222 Pumpherston Way San Jose CA
+  - - manager_id
+    - '10'
+  - - manager_name
+    - Robert
+'11': !!python/object/apply:collections.OrderedDict
+- - - ''
+    - '11'
+  - - employee_id
+    - '12'
+  - - name
+    - Rosaline
+  - - salary
+    - '99000'
+  - - department_id
+    - '4'
+  - - department_name
+    - Human Resources
+  - - address_id
+    - '12'
+  - - address
+    - 7819 East Honey Creek Ave Anaheim CA
+  - - manager_id
+    - '10'
+  - - manager_name
+    - Robert
+'12': !!python/object/apply:collections.OrderedDict
+- - - ''
+    - '12'
+  - - employee_id
+    - '13'
+  - - name
+    - Peach
+  - - salary
+    - '88000'
+  - - department_id
+    - '5'
+  - - department_name
+    - Research
+  - - address_id
+    - '13'
+  - - address
+    - 6330 Caribou Dr Clinton OH
+  - - manager_id
+    - '13'
+  - - manager_name
+    - Peach
+'13': !!python/object/apply:collections.OrderedDict
+- - - ''
+    - '13'
+  - - employee_id
+    - '14'
+  - - name
+    - Yoshi
+  - - salary
+    - '113000'
+  - - department_id
+    - '5'
+  - - department_name
+    - Research
+  - - address_id
+    - '14'
+  - - address
+    - 618 N Broadway St Barnesville OH
+  - - manager_id
+    - '13'
+  - - manager_name
+    - Peach
+'14': !!python/object/apply:collections.OrderedDict
+- - - ''
+    - '14'
+  - - employee_id
+    - '15'
+  - - name
+    - Mario
+  - - salary
+    - '91000'
+  - - department_id
+    - '5'
+  - - department_name
+    - Research
+  - - address_id
+    - '15'
+  - - address
+    - 64205 Bull Run Rd Saint Clairsville OH
+  - - manager_id
+    - '13'
+  - - manager_name
+    - Peach
+'15': !!python/object/apply:collections.OrderedDict
+- - - ''
+    - '15'
+  - - employee_id
+    - '16'
+  - - name
+    - Wario
+  - - salary
+    - '200000'
+  - - department_id
+    - '6'
+  - - department_name
+    - CEO
+  - - address_id
+    - '16'
+  - - address
+    - 91 Carpenter Dr Brooklyn NY
+  - - manager_id
+    - '16'
+  - - manager_name
+    - Wario
+'2': !!python/object/apply:collections.OrderedDict
+- - - ''
+    - '2'
+  - - employee_id
+    - '3'
+  - - name
+    - Sally
+  - - salary
+    - '100000'
+  - - department_id
+    - '1'
+  - - department_name
+    - Sales
+  - - address_id
+    - '3'
+  - - address
+    - 9779 Blue Spring Street Spring TX
+  - - manager_id
+    - '1'
+  - - manager_name
+    - Tom
+'3': !!python/object/apply:collections.OrderedDict
+- - - ''
+    - '3'
+  - - employee_id
+    - '4'
+  - - name
+    - Quinci
+  - - salary
+    - '100000'
+  - - department_id
+    - '2'
+  - - department_name
+    - Development
+  - - address_id
+    - '4'
+  - - address
+    - 1109 Pine Grove Dr Alpharetta GA
+  - - manager_id
+    - '6'
+  - - manager_name
+    - Paul
+'4': !!python/object/apply:collections.OrderedDict
+- - - ''
+    - '4'
+  - - employee_id
+    - '5'
+  - - name
+    - Jennifer
+  - - salary
+    - '111000'
+  - - department_id
+    - '2'
+  - - department_name
+    - Development
+  - - address_id
+    - '5'
+  - - address
+    - 1109 W 8th Ave Cordele GA
+  - - manager_id
+    - '6'
+  - - manager_name
+    - Paul
+'5': !!python/object/apply:collections.OrderedDict
+- - - ''
+    - '5'
+  - - employee_id
+    - '6'
+  - - name
+    - Paul
+  - - salary
+    - '71000'
+  - - department_id
+    - '2'
+  - - department_name
+    - Development
+  - - address_id
+    - '6'
+  - - address
+    - 111 Brockinton Dr Saint Simons Island GA
+  - - manager_id
+    - '6'
+  - - manager_name
+    - Paul
+'6': !!python/object/apply:collections.OrderedDict
+- - - ''
+    - '6'
+  - - employee_id
+    - '7'
+  - - name
+    - Medina
+  - - salary
+    - '92000'
+  - - department_id
+    - '3'
+  - - department_name
+    - Accounting
+  - - address_id
+    - '7'
+  - - address
+    - 5318 Oak Rd Sebring FL
+  - - manager_id
+    - '7'
+  - - manager_name
+    - Medina
+'7': !!python/object/apply:collections.OrderedDict
+- - - ''
+    - '7'
+  - - employee_id
+    - '8'
+  - - name
+    - Steve
+  - - salary
+    - '78000'
+  - - department_id
+    - '3'
+  - - department_name
+    - Accounting
+  - - address_id
+    - '8'
+  - - address
+    - 805 La Paloma Rd Key Largo FL
+  - - manager_id
+    - '7'
+  - - manager_name
+    - Medina
+'8': !!python/object/apply:collections.OrderedDict
+- - - ''
+    - '8'
+  - - employee_id
+    - '9'
+  - - name
+    - Jacki
+  - - salary
+    - '100000'
+  - - department_id
+    - '3'
+  - - department_name
+    - Accounting
+  - - address_id
+    - '9'
+  - - address
+    - 905 Medford Pl Lehigh Acres FL
+  - - manager_id
+    - '7'
+  - - manager_name
+    - Medina
+'9': !!python/object/apply:collections.OrderedDict
+- - - ''
+    - '9'
+  - - employee_id
+    - '10'
+  - - name
+    - Robert
+  - - salary
+    - '88000'
+  - - department_id
+    - '4'
+  - - department_name
+    - Human Resources
+  - - address_id
+    - '10'
+  - - address
+    - 1563 Kerley Dr San Jose CA
+  - - manager_id
+    - '10'
+  - - manager_name
+    - Robert

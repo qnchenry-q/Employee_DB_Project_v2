@@ -1,0 +1,90 @@
+'0': !!python/object/apply:collections.OrderedDict
+- - - ''
+    - '0'
+  - - Top 5 salaries
+    - ''
+  - - salary
+    - '78000.0'
+  - - Bottom 5 salaries
+    - Becky
+'1': !!python/object/apply:collections.OrderedDict
+- - - ''
+    - '1'
+  - - Top 5 salaries
+    - ''
+  - - salary
+    - '84000.0'
+  - - Bottom 5 salaries
+    - Mickey
+'2': !!python/object/apply:collections.OrderedDict
+- - - ''
+    - '2'
+  - - Top 5 salaries
+    - ''
+  - - salary
+    - '71000.0'
+  - - Bottom 5 salaries
+    - Paul
+'3': !!python/object/apply:collections.OrderedDict
+- - - ''
+    - '3'
+  - - Top 5 salaries
+    - ''
+  - - salary
+    - '78000.0'
+  - - Bottom 5 salaries
+    - Steve
+'4': !!python/object/apply:collections.OrderedDict
+- - - ''
+    - '4'
+  - - Top 5 salaries
+    - ''
+  - - salary
+    - '88000.0'
+  - - Bottom 5 salaries
+    - Tom
+'5': !!python/object/apply:collections.OrderedDict
+- - - ''
+    - '5'
+  - - Top 5 salaries
+    - Jennifer
+  - - salary
+    - ''
+  - - Bottom 5 salaries
+    - ''
+'6': !!python/object/apply:collections.OrderedDict
+- - - ''
+    - '6'
+  - - Top 5 salaries
+    - Quinci
+  - - salary
+    - ''
+  - - Bottom 5 salaries
+    - ''
+'7': !!python/object/apply:collections.OrderedDict
+- - - ''
+    - '7'
+  - - Top 5 salaries
+    - Sally
+  - - salary
+    - ''
+  - - Bottom 5 salaries
+    - ''
+'8': !!python/object/apply:collections.OrderedDict
+- - - ''
+    - '8'
+  - - Top 5 salaries
+    - Wario
+  - - salary
+    - ''
+  - - Bottom 5 salaries
+    - ''
+'9': !!python/object/apply:collections.OrderedDict
+- - - ''
+    - '9'
+  - - Top 5 salaries
+    - Yoshi
+  - - salary
+    - ''
+  - - Bottom 5 salaries
+    - ''
